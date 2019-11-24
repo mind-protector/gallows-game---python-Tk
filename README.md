@@ -6,6 +6,6 @@ You can install the game on your computer using installer.py. This creates the g
 
 P.S.
 
-- Python version: > 3.3
+- Python version: > 3.4
 
 - OS: Windows (7)-10, Linux [situation]
