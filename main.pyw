@@ -1,4 +1,3 @@
-
 from tkinter import *
 import os, sys
 from random import randint
