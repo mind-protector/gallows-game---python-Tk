@@ -8,4 +8,4 @@ P.S.
 
 - Python version: > 3.4
 
-- OS: Windows (7)-10, Linux [situation]
+- OS: Windows (7)-10, Linux [situational]
